@@ -38,6 +38,7 @@ Dragon weapons
 Grenade launcher
 Sephiroths sword
 Keyblade
+*Battlefield 3 Things*
 
 ------------------------------------------------------------------
 Enemies:
