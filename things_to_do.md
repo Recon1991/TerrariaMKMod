@@ -21,9 +21,11 @@ Crysis
 
 ------------------------------------------------------------------
 Weapons to add:
-M16
+Nyan cat Launcher
+Minecraft weapons/tools
+M16/AR15/
 Zero's buster
-Mp40
+Mp40/Mp44/STG44
 Megamans buster
 Zero's z saber
 Samus's power buster
@@ -47,6 +49,7 @@ Elites
 
 ------------------------------------------------------------------
 Gameplay(need to review this section before implementing):
+Physics modifications
 Pillars
 Pipes
 Rain
